@@ -6,3 +6,4 @@ employee. Initially, it has no data. Thus, we have to add the employee records c
 options in this program.
 
 
+password for admin : admin
