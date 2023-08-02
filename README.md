@@ -8,4 +8,8 @@ options in this program.
 
 password for admin : admin
 
+SNAPSHOTS
+
+![image](https://github.com/aftabyo/Employee-Record-Handling-using-Python/assets/86048783/8d71c0d8-4e6e-46d6-ad83-5e15cdda648b)
+
 
